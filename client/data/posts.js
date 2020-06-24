@@ -14,18 +14,17 @@ const posts = [
     "display_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcRTxcPK4GdIa1PLZiHLdzLtbtqFgyGdqSXZqOkCW7VUWPiAus&usqp=CAU",
   },
   {
-    "code": "BAF_KY4wcRY",
-    "caption": "You Me Matcha 😍 ☕️",
-    "likes": 79,
-    "id": "1154606670337393752",
-    "display_src": "https://gypsytan.com/wp-content/uploads/2017/07/Most-Instagram-Worthy-Spots-in-San-Diego-Travel-Guide-_18.jpg",
-  },
-  {
     "code": "BAPIPRjQce9",
     "caption": "When in Paris. ☕️🍴",
     "likes": 47,
     "id": "1157179863266871229",
     "display_src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAlKFpRvgfXpIYy_57NxfLC2AWvq8Guotcf1Ic90HfSGXNA09R&usqp=CAU",
+  },{
+    "code": "BAF_KY4wcRY",
+    "caption": "You Me Matcha 😍 ☕️",
+    "likes": 79,
+    "id": "1154606670337393752",
+    "display_src": "https://gypsytan.com/wp-content/uploads/2017/07/Most-Instagram-Worthy-Spots-in-San-Diego-Travel-Guide-_18.jpg",
   },
   {
     "code": "-hZh6IQcfN",

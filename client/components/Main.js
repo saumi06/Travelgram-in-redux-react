@@ -9,9 +9,9 @@ const Main = React.createClass({
                     <Link to="/">Travelgram
                 </Link>
                 </h1>
-                {React.cloneElement(this.props.children,this.props)}
+                {React.cloneElement(this.props.children, this.props)}
             </div>
-        )
+        );
     }
 })
 export default Main;
